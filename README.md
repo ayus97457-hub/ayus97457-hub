@@ -1,5 +1,5 @@
 # Hi Dear👋 I'm Ayu🌻
-# Let me introduce myself, my name is Ayu Setiana call ke please ayu/ana, a first semester student in the informatics study program at STIKOM EL RAHMA-BOGOR. This is my first experience entering the world of developers.
+# Let me introduce myself, my name is Ayu Setiana call me please ayu/ana, a first semester student in the informatics study program at STIKOM EL RAHMA-BOGOR. This is my first experience entering the world of developers.
 # 💫 About Me:
 👨‍🎓 Saya mahasiswa dari STIKOM EL RAHMA<br>📚 Saya suka membaca buku novel<br>👨‍🍳Saya suka memasak <br>🌱Saya suka menjelajahi alam<br>
 # 🌐 Socials:
