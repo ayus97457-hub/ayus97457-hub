@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi Dear👋 I'm Ayu Setiana 
+#Let me introduce myself, my name is Ayu Setiana, a first semester student in the informatics study program at STIKOM EL RAHMA-BOGOR. This is my first experience entering the world of developers.
+# 💫 About Me:
+👨‍🎓 Saya mahasiswa dari STIKOM EL RAHMA<br>📚 Saya suka membaca buku novel<br>👨‍🍳Saya suka memasak <br>🌱Saya suka menjelajahi alam<br>
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ayoustnaa?igsh=MXZ5Zm52aWF4bWdvag==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](httphttps://www.tiktok.com/@_ayoustore?_r=1&_t=ZS-91ObOGB4jods://tiktok.com/@Ayoustore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayus97457@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <!--
 **ayus97457-hub/ayus97457-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
