@@ -1,7 +1,8 @@
 # Hi Dear👋 I'm Ayu🌻
 # Let me introduce myself, my name is Ayu Setiana call me please ayu/ana, a first semester student in the informatics study program at STIKOM EL RAHMA-BOGOR. This is my first experience entering the world of developers.
 # 💫 About Me:
-👨‍🎓 Saya mahasiswa dari STIKOM EL RAHMA<br>📚 Saya suka membaca buku novel<br>👨‍🍳Saya suka memasak <br>🌱Saya suka menjelajahi alam<br>
+👨‍🎓 I'm Student At STIKOM EL RAHMA<br>📚 I like reading novels <br> 👨‍🍳I like cooking <br> 🌱I love exploring nature <br> 
+🌄 I like sunrise 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ayoustnaa?igsh=MXZ5Zm52aWF4bWdvag==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](httphttps://www.tiktok.com/@_ayoustore?_r=1&_t=ZS-91ObOGB4jods://tiktok.com/@Ayoustore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayus97457@gmail.com) 
 
