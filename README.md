@@ -1,5 +1,5 @@
 # 👋 Hai! Aku Ayu 🌻
- YUK!!! lebih kenal dengan Ayu. Nama lengkapku Ayu Setiana,<br> Biasa dipanggil Ayu atau Ana. Saat ini aku seorang mahasiswa semester 1 <br>Program Studi Informatika di STIKOM El Rahma Bogor. <br>Aku baru mulai mengenal dunia pemrograman dan pengembangan web. <br>Dan jujur saja, ini adalah pengalaman yang sangat seru sekaligus menantang 🚀.<br> Setiap baris kode yang berhasil berjalan selalu bikin aku makin penasaran untuk <br>belajar lebih dalam.
+ YUK!!! lebih kenal dengan Ayu. Nama lengkapku Ayu Setiana,<br> Biasa dipanggil Ayu atau Ayy. aku merupakan mahasiswa semester 1 <br>Program Studi Informatika di STIKOM El Rahma Bogor. <br>Aku baru mulai mengenal dunia pemrograman dan pengembangan web. <br>Dan jujur saja, ini adalah pengalaman yang sangat seru sekaligus menantang 🚀.<br> Setiap baris kode yang berhasil berjalan selalu bikin aku makin penasaran untuk <br>belajar lebih dalam.
 # 🌱 Saat ini aku sedang fokus belajar:
 *HTML,<br> *CSS, <br> *JavaScript.<br> *Dasar-dasar web development dan <br> *Membuat project sederhana sebagai latihan 
 # ✨ Ke depannya.... <br>aku ingin terus mengembangkan skill di bidang teknologi<br> dan membangun project-project yang bermanfaat. <br>Masih pemula, tapi semangat belajarku besar 💪 
